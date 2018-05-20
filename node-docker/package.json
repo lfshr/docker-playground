@@ -4,7 +4,7 @@
     "description": "Playing with docker and node",
     "author": "Fish",
     "main": "app.js",
-    "script": {
+    "scripts": {
         "start": "node app.js"
     },
     "dependencies": {
