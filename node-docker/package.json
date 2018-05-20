@@ -1,0 +1,13 @@
+{
+    "name": "node-docker",
+    "version": "1.0.0",
+    "description": "Playing with docker and node",
+    "author": "Fish",
+    "main": "app.js",
+    "script": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
